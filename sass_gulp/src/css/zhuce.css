@@ -1,0 +1,25 @@
+.zhuce { padding: 15px; border-bottom: 1px solid #E1E1E1; }
+
+.zhuce .biaoge { width: 882px; border: 1px solid #C6E6F3; height: 570px; margin: 0 auto; margin-bottom: 15px; }
+
+.zhuce .biaoge .biaoge_t { width: 620px; height: 41px; margin: 40px auto 37px; font-size: 14px; background-color: #F2F2F2; text-align: center; line-height: 41px; border-bottom: 2px solid yellow; }
+
+.zhuce .biaoge .biaoge_b { padding-left: 110px; }
+
+.zhuce .biaoge .biaoge_b .input { height: 55px; margin-left: 170px; font-size: 12px; color: #666; }
+
+.zhuce .biaoge .biaoge_b .input .input_wz { width: 60px; height: 25px; line-height: 23px; text-align: right; float: left; }
+
+.zhuce .biaoge .biaoge_b .input .input_bg { width: 200px; padding: 2px; border: 1px solid #7f9db9; }
+
+.zhuce .biaoge .biaoge_b .input .input_tishi { color: red; font-size: 14px; }
+
+.zhuce .biaoge .biaoge_b .input #yanzhengma { width: 50px; }
+
+.zhuce .biaoge .biaoge_b .input #yanzhengma + span { display: inline-block; background-color: red; width: 50px; height: 20px; line-height: 20px; text-align: center; color: white; }
+
+.zhuce .biaoge .biaoge_b .input #agree { margin-left: 60px; }
+
+.zhuce .biaoge .biaoge_b .input button { width: 90px; height: 30px; background-color: #4BADEC; margin-left: 110px; color: white; font-size: 14px; }
+
+.zhuce .biaoge .biaoge_b .input a { color: blue; }
